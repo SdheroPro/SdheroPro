@@ -35,7 +35,7 @@
 ![Minecraft](https://img.shields.io/badge/Minecraft-2C2C2C?style=for-the-badge&logo=minecraft&logoColor=white)
 ![PaperMC](https://img.shields.io/badge/PaperMC-1B1B1B?style=for-the-badge&logo=papermc&logoColor=white)
 ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-2C3E50?style=for-the-badge&logo=pterodactyl&logoColor=white)
-![Plugins & Skript](https://img.shields.io/badge/Plugins-Skript%20%7C%20WorldGuard%20%7C%20JExVote%20%7C%20ExcellentEnchants-blue?style=for-the-badge)
+![Plugins & Skript](https://img.shields.io/badge/Plugins?style=for-the-badge)
 
 ---
 
