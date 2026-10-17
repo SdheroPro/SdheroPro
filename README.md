@@ -1,4 +1,4 @@
-# Hi there, I'm M. Saad Shabbir (SdheroPro) 👋 
+# Hi there, I'm SdheroPro👋 
 ### Full-Stack & AI Developer | Game Developer | 3D Artist & Animator | Systems Engineer
 
 > Building scalable web applications, immersive 3D/game experiences, Minecraft server infrastructure, and automated systems.
